@@ -1,0 +1,431 @@
+[
+  {
+    "name": "Tata Power - Sarath Capital Mall Charging Station",
+    "location": {
+      "lat": 17.3850,
+      "lng": 78.4867
+    },
+    "type": "DC",
+    "availableSlots": 2,
+    "address": "Gachibowli - Miyapur Rd, Whitefields, HITEC City, Kondapur, Hyderabad",
+    "contact": "4068218333",
+    "price": "₹16/kWh",
+    "vehicleType": "Cars"
+  },
+  {
+    "name": "Statiq - Vivek Vardini Educational Society EV Charging Station",
+    "location": {
+      "lat": 17.3850,
+      "lng": 78.4867
+    },
+    "type": "AC",
+    "availableSlots": 4,
+    "address": "In front of Osmania Medical College Metro Station, Jambagh Road, Near Vivek Vardini Educational Society, Hyderabad",
+    "contact": "4024742458",
+    "price": "₹11/kWh",
+    "vehicleType": "Bikes and Cars"
+  },
+  {
+    "name": "Ather - Swiss Castle Charging Station",
+    "location": {
+      "lat": 17.4000,
+      "lng": 78.5000
+    },
+    "type": "AC",
+    "availableSlots": 2,
+    "address": "2-1-565/F/4, Nallakunta Main Rd, Vidya Nagar, Adikmet, Hyderabad",
+    "contact": "7676600900",
+    "price": "₹11/kWh",
+    "vehicleType": "Bikes"
+  },
+  {
+    "name": "Tata Power - Sirimalle Square Charging Station",
+    "location": {
+      "lat": 17.3500,
+      "lng": 78.4500
+    },
+    "type": "DC",
+    "availableSlots": 2,
+    "address": "Sirimalle Square, Plot No 8 9 10, Survey No 523/B, Pillar No 160, Attapur, Rajendranagar Mandal, Hyderabad",
+    "contact": "18008332233",
+    "price": "₹16/kWh",
+    "vehicleType": "Cars"
+  },
+  {
+    "name": "Hero Electric - Krishna Sai Automobiles Charging Station",
+    "location": {
+      "lat": 17.4960,
+      "lng": 78.3266
+    },
+    "type": "AC",
+    "availableSlots": 1,
+    "address": "2-132/41, Engineers Enclave, Chanda Nagar, Hyderabad",
+    "contact": "7829330410",
+    "price": "₹11/kWh",
+    "vehicleType": "Bikes"
+  },
+  {
+    "name": "Electric Vehicle Charging Station",
+    "location": {
+      "lat": 17.4000,
+      "lng": 78.4800
+    },
+    "type": "AC",
+    "availableSlots": 1,
+    "address": "Hyderguda Road, Himayat Nagar, Opposite Old MLA Quarters, Hyderabad",
+    "contact": "9642841000",
+    "price": "₹14/kWh",
+    "vehicleType": "Bikes and Cars"
+  },
+  {
+    "name": "Tata Power - Fairfield by Marriott Charging Station",
+    "location": {
+      "lat": 17.4239,
+      "lng": 78.3498
+    },
+    "type": "DC",
+    "availableSlots": 6,
+    "address": "Road No. 2, Financial District, Gachibowli, Hyderabad, Telangana",
+    "contact": "8527000290",
+    "price": "₹16/kWh",
+    "vehicleType": "Cars"
+  },
+  {
+    "name": "Fortum - AMPL Jubilee Hills Charging Station",
+    "location": {
+      "lat": 17.4300,
+      "lng": 78.4200
+    },
+    "type": "DC",
+    "availableSlots": 5,
+    "address": "AMPL Jubilee Hills, Plot no 1285/A, Road No.64, Near Jubilee Hills Check Post, Hyderabad",
+    "contact": "9650992422",
+    "price": "₹16/kWh",
+    "vehicleType": "Cars"
+  },
+  {
+    "name": "Metro - Balanagar Y Junction Charging Station",
+    "location": {
+      "lat": 17.3850,
+      "lng": 78.4867
+    },
+    "type": "AC",
+    "availableSlots": 5,
+    "address": "Near Chennai Shopping Mall, Hyderabad",
+    "contact": "9650992422",
+    "price": "₹11/kWh",
+    "vehicleType": "Bikes"
+  },
+  {
+    "name": "AMPL Uppal",
+    "location": {
+      "lat": 17.4056,
+      "lng": 78.5591
+    },
+    "type": "DC",
+    "availableSlots": 5,
+    "address": "B-3, IDA Uppal, District Ranga Reddy, IDA Uppal, Hyderabad",
+    "contact": "7989353477",
+    "price": "₹16/kWh",
+    "vehicleType": "Cars"
+  },
+  {
+    "name": "Badangpet Charging Station",
+    "location": {
+      "lat": 17.3000,
+      "lng": 78.5000
+    },
+    "type": "DC",
+    "availableSlots": 1,
+    "address": "Badangpet, Hyderabad",
+    "contact": "7416787734",
+    "price": "₹16/kWh",
+    "vehicleType": "Cars"
+  },
+  {
+    "name": "Tata Power - Kukatpally Charging Station",
+    "location": {
+      "lat": 17.4800,
+      "lng": 78.4000
+    },
+    "type": "AC",
+    "availableSlots": 4,
+    "address": "B-51, APIIC Rd, IDA Kukatpally, Sanath Nagar, Hyderabad",
+    "contact": "18008332233",
+    "price": "₹11/kWh",
+    "vehicleType": "Bikes"
+  },
+  {
+    "name": "Tata Power - Coco Malleboinapally",
+    "location": {
+      "lat": 16.7400,
+      "lng": 78.0000
+    },
+    "type": "DC",
+    "availableSlots": 2,
+    "address": "Coco Malle Boinapally Sy No.61/A/Aa/1 & 61/A/Aa/2 Balanagar Mandal, Mahabubnagar, Hyderabad",
+    "contact": "9573314625",
+    "price": "₹16/kWh",
+    "vehicleType": "Cars"
+  },
+  {
+    "name": "KMC Mall - Nishat Bagh Charging Station",
+    "location": {
+      "lat": 17.4500,
+      "lng": 78.4600
+    },
+    "type": "AC",
+    "availableSlots": 2,
+    "address": "Nishaat Bagh Colony Road, Nishat Bagh Colony, Begumpet, Hyderabad",
+    "contact": "9650992422",
+    "price": "₹11/kWh",
+    "vehicleType": "Bikes"
+  },
+  {
+    "name": "Fortum - Madinaguda, Hafeezpet Charging Station",
+    "location": {
+      "lat": 17.5000,
+      "lng": 78.3500
+    },
+    "type": "DC",
+    "availableSlots": 5,
+    "address": "Survey No-98, Miyapur Main Rd, Hyderabad",
+    "contact": "9650992422",
+    "price": "₹16/kWh",
+    "vehicleType": "Cars"
+  },
+  {
+    "name": "Sri Ramanagaram Charging Station",
+    "location": {
+      "lat": 17.2500,
+      "lng": 78.4300
+    },
+    "type": "DC",
+    "availableSlots": 1,
+    "address": "JIVA Campus, Muchintal Road, Palmakol P.O., Shamshabad, Hyderabad",
+    "contact": "7416787734",
+    "price": "₹16/kWh",
+    "vehicleType": "Cars"
+  },
+  {
+    "name": "JIO BP - L&T Mall Nagarjuna Hills, Charging Station",
+    "location": {
+      "lat": 17.4300,
+      "lng": 78.4500
+    },
+    "type": "DC",
+    "availableSlots": 1,
+    "address": "L&T Mall, Next Galleria Mall, Punjagutta Rd, Nagarjuna Hills, Punjagutta, Hyderabad",
+    "contact": "18008919023",
+    "price": "₹16/kWh",
+    "vehicleType": "Cars"
+  },
+  {
+    "name": "Fortum - RTO Office Uppal Charging Station",
+    "location": {
+      "lat": 17.4056,
+      "lng": 78.5591
+    },
+    "type": "DC",
+    "availableSlots": 5,
+    "address": "RTO Office, Uppal, Hyderabad",
+    "contact": "9650992422",
+    "price": "₹16/kWh",
+    "vehicleType": "Cars"
+  },
+  {
+    "name": "Tata Power - KMC Retail Mall Charging Station",
+    "location": {
+      "lat": 17.4200,
+      "lng": 78.4600
+    },
+    "type": "DC",
+    "availableSlots": 4,
+    "address": "Plot No.6-3, KMC Retail Mall, Circle, 1112, near Kirtilal Jewellers, Somajiguda, Hyderabad",
+    "contact": "18008332233",
+    "price": "₹16/kWh",
+    "vehicleType": "Cars"
+  },
+  {
+    "name": "Fortum - HMR Stadium Charging Station",
+    "location": {
+      "lat": 17.4000,
+      "lng": 78.5000
+    },
+    "type": "AC",
+    "availableSlots": 4,
+    "address": "HMR Stadium, Stadium Metro Station, Hyderabad",
+    "contact": "9650992422",
+    "price": "₹11/kWh",
+    "vehicleType": "Bikes"
+  },
+  {
+    "name": "Tata Power - Croma Ramanthapur Charging Station",
+    "location": {
+      "lat": 17.4000,
+      "lng": 78.5000
+    },
+    "type": "AC",
+    "availableSlots": 3,
+    "address": "Unit No. 2 & 3, Ground Floor, Plot Survey No. 46, Pragathi Nagar, Ramanthapur Main Road, Hyderabad",
+    "contact": "9246419559",
+    "price": "₹11/kWh",
+    "vehicleType": "Bikes"
+  },
+  {
+    "name": "Tata Power - Tejaswi Motors Charging Station",
+    "location": {
+      "lat": 17.4500,
+      "lng": 78.3800
+    },
+    "type": "DC",
+    "availableSlots": 3,
+    "address": "Plot No. 4/14, Opp. Cyber Towers, Hyderabad",
+    "contact": "9246419559",
+    "price": "₹16/kWh",
+    "vehicleType": "Cars"
+  },
+  {
+    "name": "Daspalla Hotels (Private - Charger)",
+    "location": {
+      "lat": 17.4300,
+      "lng": 78.4200
+    },
+    "type": "DC",
+    "availableSlots": 3,
+    "address": "Daspalla Hotels (Jubilee Hill Resorts Pvt Ltd), Rd Number 37, CBI Colony, Hyderabad",
+    "contact": "9246419559",
+    "price": "₹16/kWh",
+    "vehicleType": "Cars"
+  },
+  {
+    "name": "Tata Power - Hotel The Park (Private - Charger)",
+    "location": {
+      "lat": 17.4200,
+      "lng": 78.4600
+    },
+    "type": "DC",
+    "availableSlots": 2,
+    "address": "22, Rajbhavan Road, Hyderabad",
+    "contact": "9246419559",
+    "price": "₹16/kWh",
+    "vehicleType": "Cars"
+  },
+  {
+    "name": "Tata Power - TSG Heights (Private - Charger)",
+    "location": {
+      "lat": 17.4100,
+      "lng": 78.4400
+    },
+    "type": "DC",
+    "availableSlots": 2,
+    "address": "8-2 120/45, TSG Heights Rd No. 2, Banjara Hills, Hyderabad",
+    "contact": "9246419559",
+    "price": "₹16/kWh",
+    "vehicleType": "Cars"
+  },
+  {
+    "name": "Tata Power - ALKAPURI X ROADS Charging Station",
+    "location": {
+      "lat": 17.3700,
+      "lng": 78.5500
+    },
+    "type": "DC",
+    "availableSlots": 2,
+    "address": "ALKAPURI X ROADS, Nagole, Hyderabad",
+    "contact": "9246419559",
+    "price": "₹16/kWh",
+    "vehicleType": "Cars"
+  },
+  {
+    "name": "Fortum - Moosapet Charging Station",
+    "location": {
+      "lat": 17.4500,
+      "lng": 78.4200
+    },
+    "type": "DC",
+    "availableSlots": 5,
+    "address": "Moosapet P1, Hyderabad",
+    "contact": "9650992422",
+    "price": "₹16/kWh",
+    "vehicleType": "Cars"
+  },
+  {
+    "name": "Tata Power - Croma, L.B. Nagar Charging Station",
+    "location": {
+      "lat": 17.4000,
+      "lng": 78.5000
+    },
+    "type": "DC",
+    "availableSlots": 2,
+    "address": "Croma, Ground Floor, D.V. Cascade, Plot 59A, 59B, 59C, 59D In Survey 9/9, Saroomangar Village, Hyderabad",
+    "contact": "9246419559",
+    "price": "₹16/kWh",
+    "vehicleType": "Cars"
+  },
+  {
+    "name": "Fortum - Narsimha Puri Charging Station",
+    "location": {
+      "lat": 17.3500,
+      "lng": 78.5000
+    },
+    "type": "DC",
+    "availableSlots": 5,
+    "address": "8-116, NH 65, Narsimha Puri Colony, Huda Colony, Saroornagar, Telangana, Hyderabad",
+    "contact": "9650992422",
+    "price": "₹16/kWh",
+    "vehicleType": "Cars"
+  },
+  {
+    "name": "Tata Power - TML - Venkataramana (S) - Gachibowli Charging Station",
+    "location": {
+      "lat": 17.4500,
+      "lng": 78.3500
+    },
+    "type": "DC",
+    "availableSlots": 2,
+    "address": "Gachibowli, Hyderabad",
+    "contact": "9246419559",
+    "price": "₹16/kWh",
+    "vehicleType": "Cars"
+  },
+  {
+    "name": "Fortum - IOC Moula Ali Charging Station",
+    "location": {
+      "lat": 17.4500,
+      "lng": 78.5700
+    },
+    "type": "DC",
+    "availableSlots": 5,
+    "address": "IOC Moula Ali, 42-720, MJ Colony, Moula Ali, Hyderabad",
+    "contact": "9650992422",
+    "price": "₹16/kWh",
+    "vehicleType": "Cars"
+  },
+  {
+    "name": "Tata Power - KMC Retail Mall Charging Station",
+    "location": {
+      "lat": 17.4200,
+      "lng": 78.4600
+    },
+    "type": "DC",
+    "availableSlots": 4,
+    "address": "Plot No.6-3, KMC Retail Mall, Circle, 1112, near Kirtilal Jewellers, Somajiguda, Hyderabad",
+    "contact": "18008332233",
+    "price": "₹16/kWh",
+    "vehicleType": "Cars"
+  },
+  {
+    "name": "Fortum - HMR Stadium Charging Station",
+    "location": {
+      "lat": 17.4000,
+      "lng": 78.5000
+    },
+    "type": "AC",
+    "availableSlots": 5,
+    "address": "HMR Stadium, Stadium Metro Station, Hyderabad",
+    "contact": "9650992422",
+    "price": "₹11/kWh",
+    "vehicleType": "Cars"
+  }
+]
