@@ -2,8 +2,8 @@
   {
     "name": "Tata Power - Sarath Capital Mall Charging Station",
     "location": {
-      "lat": 17.3850,
-      "lng": 78.4867
+      "type": "Point",
+      "coordinates": [78.4867, 17.3850]
     },
     "type": "DC",
     "availableSlots": 2,
@@ -15,8 +15,8 @@
   {
     "name": "Statiq - Vivek Vardini Educational Society EV Charging Station",
     "location": {
-      "lat": 17.3850,
-      "lng": 78.4867
+      "type": "Point",
+      "coordinates": [78.4867, 17.3850]
     },
     "type": "AC",
     "availableSlots": 4,
@@ -28,8 +28,8 @@
   {
     "name": "Ather - Swiss Castle Charging Station",
     "location": {
-      "lat": 17.4000,
-      "lng": 78.5000
+      "type": "Point",
+      "coordinates": [78.5000, 17.4000]
     },
     "type": "AC",
     "availableSlots": 2,
@@ -41,8 +41,8 @@
   {
     "name": "Tata Power - Sirimalle Square Charging Station",
     "location": {
-      "lat": 17.3500,
-      "lng": 78.4500
+      "type": "Point",
+      "coordinates": [78.4500, 17.3500]
     },
     "type": "DC",
     "availableSlots": 2,
@@ -54,8 +54,8 @@
   {
     "name": "Hero Electric - Krishna Sai Automobiles Charging Station",
     "location": {
-      "lat": 17.4960,
-      "lng": 78.3266
+      "type": "Point",
+      "coordinates": [78.3266, 17.4960]
     },
     "type": "AC",
     "availableSlots": 1,
@@ -67,8 +67,8 @@
   {
     "name": "Electric Vehicle Charging Station",
     "location": {
-      "lat": 17.4000,
-      "lng": 78.4800
+      "type": "Point",
+      "coordinates": [78.4800, 17.4000]
     },
     "type": "AC",
     "availableSlots": 1,
@@ -80,8 +80,8 @@
   {
     "name": "Tata Power - Fairfield by Marriott Charging Station",
     "location": {
-      "lat": 17.4239,
-      "lng": 78.3498
+      "type": "Point",
+      "coordinates": [78.3498, 17.4239]
     },
     "type": "DC",
     "availableSlots": 6,
@@ -93,8 +93,8 @@
   {
     "name": "Fortum - AMPL Jubilee Hills Charging Station",
     "location": {
-      "lat": 17.4300,
-      "lng": 78.4200
+      "type": "Point",
+      "coordinates": [78.4200, 17.4300]
     },
     "type": "DC",
     "availableSlots": 5,
@@ -106,8 +106,8 @@
   {
     "name": "Metro - Balanagar Y Junction Charging Station",
     "location": {
-      "lat": 17.3850,
-      "lng": 78.4867
+      "type": "Point",
+      "coordinates": [78.4867, 17.3850]
     },
     "type": "AC",
     "availableSlots": 5,
@@ -119,8 +119,8 @@
   {
     "name": "AMPL Uppal",
     "location": {
-      "lat": 17.4056,
-      "lng": 78.5591
+      "type": "Point",
+      "coordinates": [78.5591, 17.4056]
     },
     "type": "DC",
     "availableSlots": 5,
@@ -132,8 +132,8 @@
   {
     "name": "Badangpet Charging Station",
     "location": {
-      "lat": 17.3000,
-      "lng": 78.5000
+      "type": "Point",
+      "coordinates": [78.5000, 17.3000]
     },
     "type": "DC",
     "availableSlots": 1,
@@ -145,8 +145,8 @@
   {
     "name": "Tata Power - Kukatpally Charging Station",
     "location": {
-      "lat": 17.4800,
-      "lng": 78.4000
+      "type": "Point",
+      "coordinates": [78.4000, 17.4800]
     },
     "type": "AC",
     "availableSlots": 4,
@@ -158,8 +158,8 @@
   {
     "name": "Tata Power - Coco Malleboinapally",
     "location": {
-      "lat": 16.7400,
-      "lng": 78.0000
+      "type": "Point",
+      "coordinates": [78.0000, 16.7400]
     },
     "type": "DC",
     "availableSlots": 2,
@@ -171,8 +171,8 @@
   {
     "name": "KMC Mall - Nishat Bagh Charging Station",
     "location": {
-      "lat": 17.4500,
-      "lng": 78.4600
+      "type": "Point",
+      "coordinates": [78.4600, 17.4500]
     },
     "type": "AC",
     "availableSlots": 2,
@@ -184,8 +184,8 @@
   {
     "name": "Fortum - Madinaguda, Hafeezpet Charging Station",
     "location": {
-      "lat": 17.5000,
-      "lng": 78.3500
+      "type": "Point",
+      "coordinates": [78.3500, 17.5000]
     },
     "type": "DC",
     "availableSlots": 5,
@@ -197,8 +197,8 @@
   {
     "name": "Sri Ramanagaram Charging Station",
     "location": {
-      "lat": 17.2500,
-      "lng": 78.4300
+      "type": "Point",
+      "coordinates": [78.4300, 17.2500]
     },
     "type": "DC",
     "availableSlots": 1,
@@ -210,8 +210,8 @@
   {
     "name": "JIO BP - L&T Mall Nagarjuna Hills, Charging Station",
     "location": {
-      "lat": 17.4300,
-      "lng": 78.4500
+      "type": "Point",
+      "coordinates": [78.4500, 17.4300]
     },
     "type": "DC",
     "availableSlots": 1,
@@ -223,8 +223,8 @@
   {
     "name": "Fortum - RTO Office Uppal Charging Station",
     "location": {
-      "lat": 17.4056,
-      "lng": 78.5591
+      "type": "Point",
+      "coordinates": [78.5591, 17.4056]
     },
     "type": "DC",
     "availableSlots": 5,
@@ -236,8 +236,8 @@
   {
     "name": "Tata Power - KMC Retail Mall Charging Station",
     "location": {
-      "lat": 17.4200,
-      "lng": 78.4600
+      "type": "Point",
+      "coordinates": [78.4600, 17.4200]
     },
     "type": "DC",
     "availableSlots": 4,
@@ -249,8 +249,8 @@
   {
     "name": "Fortum - HMR Stadium Charging Station",
     "location": {
-      "lat": 17.4000,
-      "lng": 78.5000
+      "type": "Point",
+      "coordinates": [78.5000, 17.4000]
     },
     "type": "AC",
     "availableSlots": 4,
@@ -262,8 +262,8 @@
   {
     "name": "Tata Power - Croma Ramanthapur Charging Station",
     "location": {
-      "lat": 17.4000,
-      "lng": 78.5000
+      "type": "Point",
+      "coordinates": [78.5000, 17.4000]
     },
     "type": "AC",
     "availableSlots": 3,
@@ -275,8 +275,8 @@
   {
     "name": "Tata Power - Tejaswi Motors Charging Station",
     "location": {
-      "lat": 17.4500,
-      "lng": 78.3800
+      "type": "Point",
+      "coordinates": [78.3800, 17.4500]
     },
     "type": "DC",
     "availableSlots": 3,
@@ -288,8 +288,8 @@
   {
     "name": "Daspalla Hotels (Private - Charger)",
     "location": {
-      "lat": 17.4300,
-      "lng": 78.4200
+      "type": "Point",
+      "coordinates": [78.4200, 17.4300]
     },
     "type": "DC",
     "availableSlots": 3,
@@ -301,8 +301,8 @@
   {
     "name": "Tata Power - Hotel The Park (Private - Charger)",
     "location": {
-      "lat": 17.4200,
-      "lng": 78.4600
+      "type": "Point",
+      "coordinates": [78.4600, 17.4200]
     },
     "type": "DC",
     "availableSlots": 2,
@@ -314,8 +314,8 @@
   {
     "name": "Tata Power - TSG Heights (Private - Charger)",
     "location": {
-      "lat": 17.4100,
-      "lng": 78.4400
+      "type": "Point",
+      "coordinates": [78.4400, 17.4100]
     },
     "type": "DC",
     "availableSlots": 2,
@@ -327,8 +327,8 @@
   {
     "name": "Tata Power - ALKAPURI X ROADS Charging Station",
     "location": {
-      "lat": 17.3700,
-      "lng": 78.5500
+      "type": "Point",
+      "coordinates": [78.5500, 17.3700]
     },
     "type": "DC",
     "availableSlots": 2,
@@ -340,8 +340,8 @@
   {
     "name": "Fortum - Moosapet Charging Station",
     "location": {
-      "lat": 17.4500,
-      "lng": 78.4200
+      "type": "Point",
+      "coordinates": [78.4200, 17.4500]
     },
     "type": "DC",
     "availableSlots": 5,
@@ -353,8 +353,8 @@
   {
     "name": "Tata Power - Croma, L.B. Nagar Charging Station",
     "location": {
-      "lat": 17.4000,
-      "lng": 78.5000
+      "type": "Point",
+      "coordinates": [78.5000, 17.4000]
     },
     "type": "DC",
     "availableSlots": 2,
@@ -366,8 +366,8 @@
   {
     "name": "Fortum - Narsimha Puri Charging Station",
     "location": {
-      "lat": 17.3500,
-      "lng": 78.5000
+      "type": "Point",
+      "coordinates": [78.5000, 17.3500]
     },
     "type": "DC",
     "availableSlots": 5,
@@ -379,8 +379,8 @@
   {
     "name": "Tata Power - TML - Venkataramana (S) - Gachibowli Charging Station",
     "location": {
-      "lat": 17.4500,
-      "lng": 78.3500
+      "type": "Point",
+      "coordinates": [78.3500, 17.4500]
     },
     "type": "DC",
     "availableSlots": 2,
@@ -392,8 +392,8 @@
   {
     "name": "Fortum - IOC Moula Ali Charging Station",
     "location": {
-      "lat": 17.4500,
-      "lng": 78.5700
+      "type": "Point",
+      "coordinates": [78.5700, 17.4500]
     },
     "type": "DC",
     "availableSlots": 5,
@@ -405,8 +405,8 @@
   {
     "name": "Tata Power - KMC Retail Mall Charging Station",
     "location": {
-      "lat": 17.4200,
-      "lng": 78.4600
+      "type": "Point",
+      "coordinates": [78.4600, 17.4200]
     },
     "type": "DC",
     "availableSlots": 4,
@@ -418,8 +418,8 @@
   {
     "name": "Fortum - HMR Stadium Charging Station",
     "location": {
-      "lat": 17.4000,
-      "lng": 78.5000
+      "type": "Point",
+      "coordinates": [78.5000, 17.4000]
     },
     "type": "AC",
     "availableSlots": 5,
