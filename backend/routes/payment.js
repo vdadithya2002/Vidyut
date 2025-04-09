@@ -15,20 +15,19 @@ router.post('/create-order', async (req, res) => {
     const { amount, currency } = req.body;
 
     if (!amount || !currency) {
-      return res.status(400).json({ error: 'Amount and currency are required' });
+      return res.status(400).json({ error: 'Amount and currency are required' }); // Validation
     }
 
     const options = {
-      amount: amount, // Amount in paise (100 INR = 10000 paise)
-      currency: currency,
+      amount: amount * 100, // Convert to paise
+      currency,
       payment_capture: 1 // ✅ Auto capture payment
     };
 
     const order = await razorpay.orders.create(options);
-    console.log('✅ Order created:', order);
     res.status(200).json(order);
   } catch (error) {
-    console.error('❌ Error creating order:', error);
+    console.error('Error creating order:', error);
     res.status(500).json({ error: 'Unable to create order' });
   }
 });

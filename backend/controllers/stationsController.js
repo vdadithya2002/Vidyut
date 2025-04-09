@@ -32,6 +32,7 @@ const getNearbyStations = async (req, res) => {
 
     res.json(stations);
   } catch (error) {
+    console.error('Error fetching nearby stations:', error);
     res.status(500).json({ error: 'Unable to fetch nearby stations' });
   }
 };
